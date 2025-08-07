@@ -1,3 +1,7 @@
+## 📸 Dashboard Preview
+
+![Dashboard Preview](Capture.jpg)
+
 # 🎬 Movie Sales Visualization (Power BI Project)
 
 This project visualizes the sales and performance of the top 1000 IMDb movies and TV shows using Power BI.
