@@ -1,6 +1,6 @@
 ## 📸 Dashboard Preview
 
-![Dashboard Preview](Capture.jpg)
+![Dashboard Preview](Capture.JPG)
 
 # 🎬 Movie Sales Visualization (Power BI Project)
 
